@@ -6,5 +6,6 @@ My name is Alexandra. I am 24 years, and live in Florida.
 <li>After graduation, I hope to design websites or advertisments. I love art, and the process that goes into creating the digital world.
 <li>My hobbies include reading, art, playing videos, watching movies, and playing either the cello or piano.</li> 
 </ul>
-![giphy](https://github.com/aabdal18/aabdal18/assets/170556833/6f5e9834-6d94-453f-85b4-9a6ea226ba0c)
 
+
+![Sk6w](https://github.com/aabdal18/aabdal18/assets/170556833/25adc904-48fd-4624-8fc7-fc2d1efdd44b)
