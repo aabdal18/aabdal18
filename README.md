@@ -1,6 +1,6 @@
 ## Hello! &hearts;
 
-My name is Alexandra. I am 24 years, and live in Florida. 
+My name is Alexandra. I am 24 years old, and live in Florida. 
 <ul>
 <li>Currently I am a supervisor at Starbucks, and a student at ASU. Right now I am working on moving up to assistant store manager. I am currently majoring in graphic design, and working on double majoring in internet and web development as well.</li>
 <li>After graduation, I hope to design websites or advertisments. I love art, and the process that goes into creating the digital world.
